@@ -41,7 +41,9 @@ Item ID Item Name Purchase Count Item Price Total Purchase Value Most Profitable
 -Item Name Purchase 
 
 -Count Item Price 
+
 -Total Purchase Value (as final considerations).
+
 
 ## Final Observations:
 

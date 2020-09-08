@@ -1,10 +1,10 @@
 # Pandas-Challenge
-# Eugene Alejo
-# December 12, 2019
-# Heroes-of-Pymoli
-Background
+Eugene Alejo
+December 12, 2019
+Heroes-of-Pymoli
 
-## Heroes of Pymoli Fantasy
+# Background
+Heroes of Pymoli Fantasy
 
 Similar to other game genres, this game is free-to-play. However, players are encouraged to purchase optional items that boots their overall gaming adventures. As part of the initial task, the company requires the data analyst to generate a report that breaks down the game's purchasing data into signficant and relevant insights.
 

@@ -5,6 +5,8 @@ Thursday, December 12, 2019
 
 UC Berkeley Extension, Data Analytics Bootcamp
 
+San Francisco, California
+
 Heroes-of-Pymoli
 
 # Background

@@ -35,6 +35,7 @@ SN Purchase Count Average Purchase Price Total Purchase Value Most Popular Items
 Item ID Item Name Purchase Count Item Price Total Purchase Value Most Profitable Items
 
 3) Identify the 5 most profitable items by total purchase value, then list (in a table): 
+
 Item ID Item Name Purchase Count Item Price Total Purchase Value As final considerations.
 
 ## Final Observations:

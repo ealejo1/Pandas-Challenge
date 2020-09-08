@@ -37,7 +37,8 @@ Item ID Item Name Purchase Count Item Price Total Purchase Value Most Profitable
 3) Identify the 5 most profitable items by total purchase value, then list them (on a table): 
 
 -Item ID 
--Item Name Purchase Count Item Price Total Purchase Value As final considerations.
+-Item Name Purchase 
+-Count Item Price Total Purchase Value (as final considerations).
 
 ## Final Observations:
 

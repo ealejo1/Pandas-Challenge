@@ -51,6 +51,6 @@ The peak age demographic is between ages 20-24 at 44.8%. The secondary groups co
 
 There could have been more sales if the games had more options catered to female players. On the 'Average Purchase Per Person' column, female players are at $4.47.
 
-The Average Purchase per Person data among female players is slightly higher compared to the male players at $4.07.
+Interestingly, despite having less options for female players the Average Purchase per Person data among female players is slightly higher compared to the male players at $4.07.
 
 The difference between the genders is 40 cents, which is approximately 10% more than male players.

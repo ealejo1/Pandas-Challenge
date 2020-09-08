@@ -8,7 +8,7 @@ UC Berkeley Extension, Data Analytics Bootcamp
 Heroes-of-Pymoli
 
 # Background
-Heroes of Pymoli Fantasy
+The analysis below focuses on the game called "Heroes of Pymoli Fantasy".
 
 Similar to other game genres, this game is free-to-play. However, players are encouraged to purchase optional items that boots their overall gaming adventures. As part of the initial task, the company requires the data analyst to generate a report that breaks down the game's purchasing data into signficant and relevant insights.
 
@@ -50,6 +50,7 @@ The peak age demographic is between ages 20-24 at 44.8%. The secondary groups co
 3) Fiery Glass Crusader had 9 purchases with total sales of $41.22.
 
 There could have been more sales if the games had more options catered to female players. On the 'Average Purchase Per Person' column, female players are at $4.47.
+
 
 Interestingly, despite having less options for female players the Average Purchase per Person data among female players is slightly higher compared to the male players at $4.07.
 

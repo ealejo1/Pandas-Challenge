@@ -1,7 +1,7 @@
 # Pandas Challenge
 By Eugene Alejo
 
-December 12, 2019
+Thursday, December 12, 2019
 
 UC Berkeley Extension, Data Analytics Bootcamp
 

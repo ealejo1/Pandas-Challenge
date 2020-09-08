@@ -16,13 +16,13 @@ Similar to other game genres, this game is free-to-play. However, players are en
 
 ## The final report includes the following categories, indicated below:
 
-1) Player Count
+1) Player Count.
 
-2) Total Number of Players Purchasing Analysis 
+2) Total Number of Players Purchasing Analysis. 
 
-3) Number of Unique Items Average Purchase Price
+3) Number of Unique Items Average Purchase Price.
 
-4) Total Number of Purchases Total Revenue Gender Demographics
+4) Total Number of Purchases Total Revenue Gender Demographics.
 
 ## Percentage and Count of Male Players Percentage and Count of Female Players Percentage and Count of Other / Non-Disclosed Purchasing Analysis (Gender)
  Each category is broken by gender Purchase Count Average Purchase Price Total Purchase Value Normalized Totals Age Demographics

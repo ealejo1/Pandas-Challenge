@@ -29,3 +29,24 @@ Item ID Item Name Purchase Count Item Price Total Purchase Value Most Profitable
 
 ## Identify the 5 most profitable items by total purchase value, then list (in a table): 
 Item ID Item Name Purchase Count Item Price Total Purchase Value As final considerations.
+
+## Final Observations:
+Observations:
+
+Out of all 576 active players, the most active players are male: compromising 84%. A smaller portion of female players exist at 14%.
+
+The peak age demographic is between ages 20-24 at 44.8%. The secondary groups consists of teenagers between ages 15-19 at 18.6% and lastly, ages 25-29 at 13.4%.
+
+## There are three items noted on the Top 5 rankings for both Most Popular and Most Profitable metrics:
+
+1) The items 'Oathbreaker, Last Hope of the Breaking Storm' had 12 purchases and total sales of $50.76.
+
+2) Nirvana achieved 9 total purchases with total sales of $44.10.
+
+3) Fiery Glass Crusader had 9 purchases with total sales of $41.22.
+
+There could have been more sales if the games had more options catered to female players. On the 'Average Purchase Per Person' column, female players are at $4.47.
+
+The Average Purchase per Person data among female players is slightly higher compared to the male players at $4.07.
+
+The difference between the genders is 40 cents, which is approximately 10% more than male players.

@@ -1,5 +1,5 @@
 # Pandas Challenge
-By Eugene Alejo
+By: Eugene Alejo
 
 Thursday, December 12, 2019
 

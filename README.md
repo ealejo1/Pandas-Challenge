@@ -23,12 +23,15 @@ Similar to other game genres, this game is free-to-play. However, players are en
 3) Number of Unique Items Average Purchase Price.
 
 4) Total Number of Purchases Total Revenue Gender Demographics.
+![Alt Text](https://github.com/ealejo1/Pandas-Challenge/blob/master/Pandas-Challenge_screenshots/GenderDemographics.jpeg)
 
 ## Percentage and Count of Male Players Percentage and Count of Female Players Percentage and Count of Other / Non-Disclosed Purchasing Analysis (Gender)
+![Alt Text](https://github.com/ealejo1/Pandas-Challenge/blob/master/Pandas-Challenge_screenshots/PurchasingAnalysis.jpeg)
  Each category is broken by gender Purchase Count Average Purchase Price Total Purchase Value Normalized Totals Age Demographics
 The other categories are broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.) Purchase Count Average Purchase Price Total Purchase Value Normalized Totals 
 
 ## Identify Top Spenders, popular and profitable items. 
+![Alt Text](https://github.com/ealejo1/Pandas-Challenge/blob/master/Pandas-Challenge_screenshots/TopSpenders.jpeg)
 
 1) Identify top 5 spenders in the game by total purchase value, then list (on a table): 
 SN Purchase Count Average Purchase Price Total Purchase Value Most Popular Items
@@ -48,12 +51,18 @@ Item ID Item Name Purchase Count Item Price Total Purchase Value Most Profitable
 
 
 ## Final Observations:
+![Alt Text](https://github.com/ealejo1/Pandas-Challenge/blob/master/Pandas-Challenge_screenshots/PurchasingAnalysis_gender.jpeg)
 
 Out of all 576 active players, the most active players are male: compromising 84%. A smaller portion of female players exist at 14%.
 
 The peak age demographic is between ages 20-24 at 44.8%. The secondary groups consists of teenagers between ages 15-19 at 18.6% and lastly, ages 25-29 at 13.4%.
 
 ## There are three items noted on the Top 5 rankings for both Most Popular and Most Profitable metrics:
+Most Popular
+![Alt Text](https://github.com/ealejo1/Pandas-Challenge/blob/master/Pandas-Challenge_screenshots/MostPopular.jpeg)
+
+Most Profitable
+![Alt Text](https://github.com/ealejo1/Pandas-Challenge/blob/master/Pandas-Challenge_screenshots/Most_Profitable.jpeg)
 
 1) The items 'Oathbreaker, Last Hope of the Breaking Storm' had 12 purchases and total sales of $50.76.
 
